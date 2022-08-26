@@ -1,0 +1,1 @@
+# hibernate-example-for-beginners
